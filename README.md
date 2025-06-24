@@ -5,7 +5,7 @@ Incluye autenticación con JWT, documentación de endpoints con Swagger, y lógi
 
 ---
 
-## 🚀 Tecnologías
+## Tecnologías
 
 - Java 17
 - Spring Boot
@@ -18,7 +18,7 @@ Incluye autenticación con JWT, documentación de endpoints con Swagger, y lógi
 
 ---
 
-## 🎯 Características
+## Características
 
 ### Autenticación
 - Registro e inicio de sesión con JWT
